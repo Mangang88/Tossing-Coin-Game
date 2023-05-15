@@ -1,0 +1,35 @@
+.result {
+  width: 120px;
+  height: 20px;
+  margin-left: 20px;
+}
+.head {
+  background-color: rgb(3, 153, 3);
+  color: white;
+  margin-top: 20px;
+  margin-left: 23px;
+  padding: 6px 12px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.head:hover{
+  background-color:rgb(5, 116, 5);
+}
+.tail{
+  background-color: rgb(219, 17, 17);
+  color: white;
+  margin-left: 10px;
+  padding: 6px 18px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+.tail:hover{
+  background-color:rgb(175, 11, 11);
+}
+.para {
+  font-family: Arial;
+  font-size: 15px;
+  margin-left: 20px;
+}
